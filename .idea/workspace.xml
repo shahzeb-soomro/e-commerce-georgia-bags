@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f50edfb4-a6f2-4788-ac3f-a93dcdeceac3" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/application/config/config.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/config/config.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/config/database.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/config/database.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/views/bags/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/views/bags/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/banner1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/banner1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/banner2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/banner2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/banner3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/banner3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/banner4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/banner4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -44,8 +38,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/application/views/bags/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="341">
-              <caret line="66" lean-forward="true" selection-start-line="66" selection-end-line="66" />
+            <state relative-caret-position="375">
+              <caret line="68" lean-forward="true" selection-start-line="68" selection-end-line="68" />
             </state>
           </provider>
         </entry>
@@ -124,35 +118,6 @@
               <item name="georgia-bags" type="b2602c69:ProjectViewProjectNode" />
               <item name="georgia-bags" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="georgia-bags" type="b2602c69:ProjectViewProjectNode" />
-              <item name="georgia-bags" type="462c0819:PsiDirectoryNode" />
-              <item name="application" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="georgia-bags" type="b2602c69:ProjectViewProjectNode" />
-              <item name="georgia-bags" type="462c0819:PsiDirectoryNode" />
-              <item name="application" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="georgia-bags" type="b2602c69:ProjectViewProjectNode" />
-              <item name="georgia-bags" type="462c0819:PsiDirectoryNode" />
-              <item name="application" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-              <item name="bags" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="georgia-bags" type="b2602c69:ProjectViewProjectNode" />
-              <item name="georgia-bags" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="georgia-bags" type="b2602c69:ProjectViewProjectNode" />
-              <item name="georgia-bags" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -162,7 +127,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RunDashboard">
@@ -199,18 +164,18 @@
       <workItem from="1545128755322" duration="3382000" />
       <workItem from="1545627934667" duration="41000" />
       <workItem from="1547528161640" duration="10191000" />
-      <workItem from="1555097500128" duration="1396000" />
+      <workItem from="1555097500128" duration="1883000" />
+      <workItem from="1555248550749" duration="315000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43141000" />
+    <option name="totallyTimeSpent" value="43943000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.498366" visible="true" weight="0.28366113" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.498366" visible="true" weight="0.2881997" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" sideWeight="0.501634" side_tool="true" weight="0.25567323" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -356,8 +321,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/application/views/bags/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="341">
-          <caret line="66" lean-forward="true" selection-start-line="66" selection-end-line="66" />
+        <state relative-caret-position="375">
+          <caret line="68" lean-forward="true" selection-start-line="68" selection-end-line="68" />
         </state>
       </provider>
     </entry>
