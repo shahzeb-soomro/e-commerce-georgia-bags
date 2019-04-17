@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f50edfb4-a6f2-4788-ac3f-a93dcdeceac3" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/banner1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/banner1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/banner2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/banner2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/banner3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/banner3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/banner4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/banner4.jpg" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -35,11 +39,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/application/views/bags/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="68" lean-forward="true" selection-start-line="68" selection-end-line="68" />
+            <state relative-caret-position="24">
+              <caret line="33" column="32" selection-start-line="33" selection-start-column="32" selection-end-line="33" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/assets/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="358">
+              <caret line="695" selection-start-line="695" selection-end-line="695" />
             </state>
           </provider>
         </entry>
@@ -62,6 +75,8 @@
       <find>.address-in</find>
       <find>p</find>
       <find>banner</find>
+      <find>carousel-item active</find>
+      <find>carousel-item</find>
     </findStrings>
     <replaceStrings>
       <replace>href=&quot;&lt;?php echo base_url();?&gt;</replace>
@@ -90,17 +105,17 @@
         <option value="$PROJECT_DIR$/application/views/bags/about.php" />
         <option value="$PROJECT_DIR$/application/views/bags/contact.php" />
         <option value="$PROJECT_DIR$/assets/css/contact.css" />
-        <option value="$PROJECT_DIR$/assets/css/style.css" />
         <option value="$PROJECT_DIR$/application/config/config.php" />
         <option value="$PROJECT_DIR$/application/config/database.php" />
         <option value="$PROJECT_DIR$/application/views/bags/index.php" />
+        <option value="$PROJECT_DIR$/assets/css/style.css" />
       </list>
     </option>
   </component>
   <component name="PhpServers">
     <servers />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1382" />
@@ -111,6 +126,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -118,11 +134,21 @@
               <item name="georgia-bags" type="b2602c69:ProjectViewProjectNode" />
               <item name="georgia-bags" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="georgia-bags" type="b2602c69:ProjectViewProjectNode" />
+              <item name="georgia-bags" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="georgia-bags" type="b2602c69:ProjectViewProjectNode" />
+              <item name="georgia-bags" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -166,16 +192,18 @@
       <workItem from="1547528161640" duration="10191000" />
       <workItem from="1555097500128" duration="1883000" />
       <workItem from="1555248550749" duration="315000" />
+      <workItem from="1555339274933" duration="2745000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43943000" />
+    <option name="totallyTimeSpent" value="46688000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.498366" visible="true" weight="0.2881997" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.498366" visible="true" weight="0.2927383" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" sideWeight="0.501634" side_tool="true" weight="0.25567323" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -277,13 +305,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2057">
-          <caret line="121" selection-start-line="121" selection-end-line="121" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/application/views/bags/header.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
@@ -321,8 +342,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/application/views/bags/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="68" lean-forward="true" selection-start-line="68" selection-end-line="68" />
+        <state relative-caret-position="24">
+          <caret line="33" column="32" selection-start-line="33" selection-start-column="32" selection-end-line="33" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="695" selection-start-line="695" selection-end-line="695" />
         </state>
       </provider>
     </entry>
