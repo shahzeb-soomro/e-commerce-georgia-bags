@@ -1,5 +1,5 @@
 	<!-- banner -->
-		<div class="banner_inner">
+		<div class="banner_inner" style="background: url(http://localhost/projects/georgia-bags/assets/images/slide5.jpg) no-repeat 0px 0px; background-size: cover">
 			<div class="services-breadcrumb">
 				<div class="inner_breadcrumb">
 
@@ -120,10 +120,10 @@
 				<!--/meddle-->
 				<div class="row">
 					<div class="col-md-12 middle-slider my-4">
-						<div class="middle-text-info ">
+						<div class="middle-text-info " style="background: url(http://localhost/projects/georgia-bags/assets/images/slide7.jpg) no-repeat 0px 0px; background-size: contain">
 
-							<h3 class="tittle-w3layouts two text-center my-lg-4 mt-3">Summer Flash sale</h3>
-							<div class="simply-countdown-custom" id="simply-countdown-custom"></div>
+<!--							<h3 class="tittle-w3layouts two text-center my-lg-4 mt-3">Summer Flash sale</h3>-->
+<!--							<div class="simply-countdown-custom" id="simply-countdown-custom"></div>-->
 
 						</div>
 					</div>

@@ -279,7 +279,7 @@
                                                     <td><?php echo $item['side_gussets'];?></td>
                                                     <td><?php echo $item['bottom_gussets'];?></td>
                                                     <td><?php echo $item['available_decoration'];?></td>
-                                                    <td><a href="#"><i class="fa fa-pencil fa-fw"></i></a></td>
+                                                    <td><a href="<?php echo site_url('AdminController/editProduct/'.$item['idproducts'])?>"><i class="fa fa-pencil fa-fw"></i></a></td>
                                                     <td><a href="<?php echo site_url('AdminController/deleteProduct/'.$item['idproducts'])?>"><i class="fa fa-trash fa-fw"></i></a></td>
                                                 </tr>
                                             <?php } ?>
